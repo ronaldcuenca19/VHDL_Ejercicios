@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Ejercicios.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="P17.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="P17.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="P17.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="P17.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="P17.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P17.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="P17.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="P17.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="P17.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="P17_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="P17_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="P17_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P18.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P18.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P18.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P19.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P19.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P19.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P20.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P20.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P20.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P21.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P21.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="P21.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P21.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P22.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P22.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P22.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P23.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P23.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P23.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P25.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P25.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P25.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="P26.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="P26.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="P26.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ejerClases_Estructural.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ejerClases_Estructural.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ejerClases_Estructural.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ejercicio2_Suma.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ejercicio2_Suma.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ejercicio2_Suma.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1652904628">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-2038956116648435623" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-3083484985728722399" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3647025218590952261" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1652904629" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="6140718257483900907" xil_pn:start_ts="1652904629">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1652910053" xil_pn:in_ck="-8775182686886561503" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-6021285007375535832" xil_pn:start_ts="1652910043">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1652910053" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3433122441821763728" xil_pn:start_ts="1652910053">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1652910061" xil_pn:in_ck="105302073822" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="8592310857731097724" xil_pn:start_ts="1652910053">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

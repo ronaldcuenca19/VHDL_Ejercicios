@@ -1,0 +1,1 @@
+vhdtdtfi -prj Ejercicios -o D:/Ejercicios/P21.vhi -module P21 -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work P21.vhd 
